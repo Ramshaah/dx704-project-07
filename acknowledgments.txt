@@ -1,0 +1,9 @@
+Acknowledgements:
+none
+
+Extra libraries used:
+none
+
+Generative AI usage:
+Included ChatGPT assistance for code scaffolding and file I/O patterns for LQR and regression;
+
